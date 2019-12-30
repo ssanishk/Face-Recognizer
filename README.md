@@ -8,7 +8,7 @@ The major bottleneck in the process of using Deep learning for face recognition 
 
 The process used is roughly described by the below image
 
-![Method Used](https://github.com/ssanishk/Face-Recognizer/Images/model.png)
+![Method Used](https://github.com/ssanishk/Face-Recognizer/blob/master/Images/model.png)
 
 ## **Dataset**
 
@@ -25,6 +25,6 @@ At present this architecture only works when both the training and testing image
 Sample output for a test image. 
 The label appears at the bottom of the image (Rather dull, I know )
 
-![](https://github.com/ssanishk/Face-Recognizer/Images/result.png)
+![](https://github.com/ssanishk/Face-Recognizer/blob/master/Images/result.png)
 
 
